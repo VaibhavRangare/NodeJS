@@ -1,0 +1,16 @@
+h1{
+    
+}
+img{
+    width: 300px;
+    height:300px
+}
+body{
+    /*color: red;*/
+    color: #888888;
+    font-family: Arial;
+    margin: 10 auto;
+    padding: 10 10px;
+    max-width: 650px;
+    border-top: 1px solid;
+}
